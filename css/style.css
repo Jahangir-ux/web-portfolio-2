@@ -98,10 +98,10 @@ h1 {
 
 /* work-inquiry */
 .messess {
+  background: url("last-img.png");
   height: 200px;
   width: 800px;
   margin: 95px 270px;
-  background: url("images/last-img.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -109,7 +109,7 @@ h1 {
 .work-inquiry {
   font-family: "Bebas Neue", cursive;
   font-size: 60px;
-  color: white;
+  /* color: white; */
   display: inline-block;
   position: relative;
   margin: 62px 68px;
